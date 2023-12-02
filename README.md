@@ -1,6 +1,12 @@
 # Alzheimer-s-Disease-Classification-using-Stacking-Ensemble
 
 ### Introduction
+The project is dedicated to accurately classifying individuals into distinct categories, namely Demented, Non-Demented, and Converted. In this project, the focus is on Alzheimer's Disease classification, wherein a distinctive Stacking Ensemble framework is adopted to address the intricacies of the problem.
+
+### How to run the project?
+- Download the project, go to the project directory , install streamlit and you are good to go.
+- Run "streamlit run 01_🏠_Homepage.py" command in the Terminal. 
+
 #### About Dementia
 Dementia is not a specific disease. It’s an overall term that describes a group of symptoms associated with a decline in memory or other thinking skills severe enough to reduce a person’s ability to perform everyday activities. Alzheimer’s disease accounts for 60 to 80 percent of cases. Vascular dementia, which occurs after a stroke, is the second most common dementia type. But there are many other conditions that can cause symptoms of dementia, including some that are reversible, such as thyroid problems and vitamin deficiencies.
 
