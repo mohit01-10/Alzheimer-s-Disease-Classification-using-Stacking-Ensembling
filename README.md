@@ -7,6 +7,8 @@ The project is dedicated to accurately classifying individuals into distinct cat
 - Download the project, go to the project directory , install streamlit and you are good to go.
 - Run "streamlit run 01_🏠_Homepage.py" command in the Terminal. 
 
+<img width="800" alt="Screenshot 2023-12-02 at 9 27 05 PM" src="https://github.com/mohit01-10/Alzheimer-s-Disease-Classification-using-Stacking-Ensembling/assets/114811695/b1f512e7-0bf4-4191-b489-40e871de594a">
+
 #### About Dementia
 Dementia is not a specific disease. It’s an overall term that describes a group of symptoms associated with a decline in memory or other thinking skills severe enough to reduce a person’s ability to perform everyday activities. Alzheimer’s disease accounts for 60 to 80 percent of cases. Vascular dementia, which occurs after a stroke, is the second most common dementia type. But there are many other conditions that can cause symptoms of dementia, including some that are reversible, such as thyroid problems and vitamin deficiencies.
 
